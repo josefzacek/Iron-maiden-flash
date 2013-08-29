@@ -1,0 +1,41 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+
+<title>Iron Maiden</title>
+		
+        
+		<style type="text/css" media="screen">
+		html, body { height:100%; background-color: #000000;}
+		body { margin:0; padding:0; overflow:scroll; }
+		#box{ width:1024px;
+		margin-right:auto;
+			margin-left:auto;
+			margin-top:15px;
+		}
+		        </style>
+        <link rel="shortcut icon" href="favicon.ico"/>
+        
+<!--google analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20665233-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div id="box">
+  <embed src="iron-maiden.swf" height="795" width="1024"/>
+ </div> 
+</body>
+</html>
